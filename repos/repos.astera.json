@@ -5,8 +5,8 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Astera-Non-Patches",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
-      "branch": "fifteen"
+      "repo": "https://github.com/frost-testzone/kernel_xiaomi_sm6375",
+      "branch": "main"
     },
     "withRoot": "none",
     "withSUSFS": false,
@@ -55,7 +55,7 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Astera-KernelSU-SUSFS",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
+      "repo": "https://github.com/frost-testzone/kernel_xiaomi_sm6375",
       "branch": "fifteen"
     },
     "withRoot": "ksu",
@@ -105,7 +105,7 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Astera-KSU-Next-SUSFS",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
+      "repo": "https://github.com/frost-testzone/kernel_xiaomi_sm6375",
       "branch": "fifteen"
     },
     "withRoot": "ksun",
@@ -155,7 +155,7 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Astera-SukiSU-SUSFS",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
+      "repo": "https://github.com/frost-testzone/kernel_xiaomi_sm6375",
       "branch": "fifteen"
     },
     "withRoot": "sukisu",
