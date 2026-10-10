@@ -5,7 +5,7 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Power-Non-Patches",
-      "repo": "https://github.com/FaqihFaqih8815/kernel_xiaomi_mt6785",
+      "repo": "https://github.com",
       "branch": "kaeru"
     },
     "withRoot": "none",
@@ -14,7 +14,7 @@
     "withKPM": false,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r547379",
+        "repo": "https://gitlab.com",
         "branch": "15.0",
         "name": "clang-crDroid",
         "binPath": ["./bin"]
@@ -45,7 +45,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/cvnertnc/AnyKernel3/",
+      "repo": "https://github.com",
       "branch": "begonia"
     }
   },
@@ -55,8 +55,8 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Power-KernelSU-SUSFS",
-      "repo": "https://github.com/Saikrishna1504/kernel_xiaomi_mt6785",
-      "branch": "bka"
+      "repo": "https://github.com",
+      "branch": "kaeru"
     },
     "withRoot": "ksu",
     "withSUSFS": true,
@@ -64,7 +64,7 @@
     "withKPM": false,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r547379",
+        "repo": "https://gitlab.com",
         "branch": "15.0",
         "name": "clang-crDroid",
         "binPath": ["./bin"]
@@ -95,7 +95,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/cvnertnc/AnyKernel3/",
+      "repo": "https://github.com",
       "branch": "begonia"
     }
   },
@@ -105,8 +105,8 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Power-KSU-Next-SUSFS",
-      "repo": "https://github.com/Saikrishna1504/kernel_xiaomi_mt6785",
-      "branch": "bka"
+      "repo": "https://github.com",
+      "branch": "kaeru"
     },
     "withRoot": "ksun",
     "withSUSFS": true,
@@ -114,7 +114,7 @@
     "withKPM": false,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r547379",
+        "repo": "https://gitlab.com",
         "branch": "15.0",
         "name": "clang-crDroid",
         "binPath": ["./bin"]
@@ -145,7 +145,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/cvnertnc/AnyKernel3/",
+      "repo": "https://github.com",
       "branch": "begonia"
     }
   },
@@ -155,8 +155,8 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Power-SukiSU-SUSFS",
-      "repo": "https://github.com/Saikrishna1504/kernel_xiaomi_mt6785",
-      "branch": "bka"
+      "repo": "https://github.com",
+      "branch": "kaeru"
     },
     "withRoot": "sukisu",
     "withSUSFS": true,
@@ -164,7 +164,7 @@
     "withKPM": false,
     "toolchains": [
       {
-        "repo": "https://gitlab.com/crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r547379",
+        "repo": "https://gitlab.com",
         "branch": "15.0",
         "name": "clang-crDroid",
         "binPath": ["./bin"]
@@ -195,7 +195,7 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/cvnertnc/AnyKernel3/",
+      "repo": "https://github.com",
       "branch": "begonia"
     }
   }
