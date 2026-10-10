@@ -5,7 +5,7 @@
       "device": "begonia",
       "defconfig": "begonia_user_defconfig",
       "name": "Power-Non-Patches",
-      "repo": "https://github.com/FaqihFaqih8815/kernel_xiaomi_mt6785"
+      "repo": "https://github.com/FaqihFaqih8815/kernel_xiaomi_mt6785",
       "branch": "kaeru"
     },
     "withRoot": "none",
